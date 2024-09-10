@@ -1,11 +1,5 @@
 # Artifact Appendix
 
-Paper title: **AUTOLYCUS: Exploiting Explainable Artificial Intelligence (XAI) for Model Extraction Attacks against Interpretable Models**
-
-Artifacts HotCRP Id: **#17**
-
-Requested Badge: **Reproducible**
-
 ## Description
 As an artifact, we provide a public GitHub repository and a Docker image which contain the source code, figures and datasets used in our paper. 
 The links are: \
